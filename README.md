@@ -20,6 +20,21 @@ These are portfolio and learning projects. Their READMEs describe setup, design 
 
 ## Technologies I use
 
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="42" height="42" alt="TypeScript" title="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="42" height="42" alt="JavaScript" title="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="42" height="42" alt="Python" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" width="42" height="42" alt="Node.js" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-original.svg" width="42" height="42" alt="Django" title="Django" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="42" height="42" alt="FastAPI" title="FastAPI" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="42" height="42" alt="PostgreSQL" title="PostgreSQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="42" height="42" alt="MongoDB" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="42" height="42" alt="React" title="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="42" height="42" alt="Docker" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="42" height="42" alt="Git" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="42" height="42" alt="Linux" title="Linux" />
+</p>
+
 - **Backend:** TypeScript, JavaScript, Python, Node.js, Express, Django REST Framework and FastAPI.
 - **Data and integration:** SQL, PostgreSQL, Supabase, MongoDB, REST APIs, Celery, Socket.IO and n8n.
 - **Delivery and interfaces:** Git, Docker, Linux, GitHub Actions and React.
@@ -36,3 +51,11 @@ For code examples, start with [consultation ownership](https://github.com/joaovi
 I study algorithms, software architecture and the mathematics behind machine learning. I also write explanatory articles about object-oriented programming and Transformers as a way to test my understanding.
 
 Outside software, I play handball.
+
+## Contribution snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/joaovitormessias/joaovitormessias/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/joaovitormessias/joaovitormessias/output/github-snake.svg" />
+  <img alt="Animated snake eating my GitHub contribution graph" src="https://raw.githubusercontent.com/joaovitormessias/joaovitormessias/output/github-snake.svg" />
+</picture>
